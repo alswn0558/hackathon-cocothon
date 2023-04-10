@@ -14,4 +14,4 @@ Frontend: 고주희
 <img width="561" alt="image" src="https://user-images.githubusercontent.com/63691589/230838237-5116b214-064a-4774-8945-87284961245a.png">
 
 
-백엔드 기능 API 구현 및 배포 완료, 프론트 미완료
+백엔드 API 기능 구현 및 배포 완료, 프론트 미완료
